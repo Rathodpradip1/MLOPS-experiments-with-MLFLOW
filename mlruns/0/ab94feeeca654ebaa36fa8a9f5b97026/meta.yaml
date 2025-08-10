@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ab94feeeca654ebaa36fa8a9f5b97026/artifacts
+end_time: 1754757325020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab94feeeca654ebaa36fa8a9f5b97026
+run_name: puzzled-shark-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754757321867
+status: 3
+tags: []
+user_id: HP

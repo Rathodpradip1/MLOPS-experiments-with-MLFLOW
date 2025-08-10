@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/862800512940212619/08066fe856ff4da1afae2fff40ae434f/artifacts
+end_time: 1754758743820
+entry_point_name: ''
+experiment_id: '862800512940212619'
+lifecycle_stage: active
+run_id: 08066fe856ff4da1afae2fff40ae434f
+run_name: whimsical-mule-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754758743114
+status: 3
+tags: []
+user_id: HP

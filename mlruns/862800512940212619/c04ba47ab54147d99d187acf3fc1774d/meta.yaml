@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/862800512940212619/c04ba47ab54147d99d187acf3fc1774d/artifacts
+end_time: 1754760311303
+entry_point_name: ''
+experiment_id: '862800512940212619'
+lifecycle_stage: active
+run_id: c04ba47ab54147d99d187acf3fc1774d
+run_name: rogue-sheep-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754760299869
+status: 3
+tags: []
+user_id: HP

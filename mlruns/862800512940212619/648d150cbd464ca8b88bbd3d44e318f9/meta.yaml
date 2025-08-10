@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/862800512940212619/648d150cbd464ca8b88bbd3d44e318f9/artifacts
+end_time: 1754761059645
+entry_point_name: ''
+experiment_id: '862800512940212619'
+lifecycle_stage: active
+run_id: 648d150cbd464ca8b88bbd3d44e318f9
+run_name: sassy-bug-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754761048511
+status: 3
+tags: []
+user_id: HP

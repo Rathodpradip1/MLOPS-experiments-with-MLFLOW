@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/862800512940212619/d7080b9671044b4784d2cfb03ae70bcc/artifacts
+end_time: 1754760438155
+entry_point_name: ''
+experiment_id: '862800512940212619'
+lifecycle_stage: active
+run_id: d7080b9671044b4784d2cfb03ae70bcc
+run_name: peaceful-ray-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754760427247
+status: 3
+tags: []
+user_id: HP

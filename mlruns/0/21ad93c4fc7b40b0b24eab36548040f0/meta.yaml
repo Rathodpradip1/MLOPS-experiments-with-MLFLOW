@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/21ad93c4fc7b40b0b24eab36548040f0/artifacts
+end_time: 1754758357719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21ad93c4fc7b40b0b24eab36548040f0
+run_name: able-shark-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754758355042
+status: 3
+tags: []
+user_id: HP
