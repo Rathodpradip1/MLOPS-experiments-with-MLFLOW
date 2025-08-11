@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/Oops%20concept/MLOPS-experiments-with-MLFLOW/mlruns/991625151788319656/d1f587daa3a3451bb04247d40d19c283/artifacts
+end_time: 1754899350674
+entry_point_name: ''
+experiment_id: '991625151788319656'
+lifecycle_stage: active
+run_id: d1f587daa3a3451bb04247d40d19c283
+run_name: crawling-stag-395
+run_uuid: d1f587daa3a3451bb04247d40d19c283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754899332824
+status: 3
+tags: []
+user_id: HP
